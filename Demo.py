@@ -1,9 +1,9 @@
 #############################################################################################
-### Author - Priyesh Bhardwaj												              ###
-### Created on - 24/04/2020													              ###
-### Purpose - Validation of tariff charges populated on ape1_rated_events	              ###
-### as per rate card 														              ###
-###	Language - Python3														              ###
+###   Author - Priyesh Bhardwaj							          ###
+###   Created on - 24/04/2020								  ###
+###   Purpose - Validation of tariff charges populated on ape1_rated_events	          ###
+###             as per rate card 							  ###
+###   Language - Python3						                  ###
 #############################################################################################
 
 
